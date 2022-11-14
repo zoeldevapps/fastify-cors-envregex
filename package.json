@@ -1,6 +1,6 @@
 {
   "name": "@zoeldevapps/fastify-cors-envregex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transform plain cors origins to a format supported by fastify",
   "main": "index.js",
   "typings": "index.d.ts",
