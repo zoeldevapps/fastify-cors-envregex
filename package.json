@@ -1,0 +1,21 @@
+{
+  "name": "@zoeldevapps/fastify-cors-envregex",
+  "version": "1.0.0",
+  "description": "Transform plain cors origins to a format supported by fastify",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoeldevapps/fastify-cors-envregex.git"
+  },
+  "author": "szist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoeldevapps/fastify-cors-envregex/issues"
+  },
+  "homepage": "https://github.com/zoeldevapps/fastify-cors-envregex#readme",
+  "dependencies": {
+    "@fastify/cors": "^8.2.0"
+  }
+}
